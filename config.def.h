@@ -11,8 +11,8 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static const int vertpad            = 10;       /* vertical padding of bar */
 static const int sidepad            = 10;       /* horizontal padding of bar */
-static const char *fonts[]          = { "Ubuntu Mono:size=12", "forkawesome:size=12" };
-static const char dmenufont[]       = "Ubuntu Mono:size=12";
+static const char *fonts[]          = { "Ubuntu Regular:size=12", "forkawesome:size=12" };
+static const char dmenufont[]       = "Ubuntu Regular:size=12";
 //background color
 static const char col_gray1[]       = "#282828";
 //inactive window border color
